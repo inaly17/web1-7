@@ -21,8 +21,10 @@ background-color: orange;
    background-color: red;
    color: black;
    width: 240px;
+   height: 80px;
    margin: 5px;
    float: left;
+   overflow: hidden;
 }
 #main1{
    background-color: green;
