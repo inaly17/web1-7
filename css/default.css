@@ -24,7 +24,7 @@ header{
    float: left;
 }
 .box{
-   background-color: red;
+   background-color: skyblue;
    color: black;
    width: 240px;
    height: 80px;
@@ -46,7 +46,7 @@ header{
    width: 24px;
    position: absolute;
    left: 50px;
-   top: 30px;
+   top: 50px;
 }
 aside{
    background-color: blue;
