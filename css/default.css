@@ -9,17 +9,17 @@ body{
 background-color: gray;
 }
 header{
-background-color: orange;
-}
-#main1{
-background-color: green;
-}
-#main2{
 background-color: yellow;
 }
+#main1{
+background-color: orange;
+}
+#main2{
+background-color: green;
+}
 aside{
-background-color: blue;
+background-color: red;
 }
 footer{
-background-color: purple;
+background-color: blue;
 }
